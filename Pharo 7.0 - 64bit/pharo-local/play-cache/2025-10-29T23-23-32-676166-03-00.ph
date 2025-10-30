@@ -1,0 +1,1 @@
+ConwayGameMorph new openInWorld

@@ -1,0 +1,1 @@
+ConwayGameMorph allInstances do: [ :each | each delete ].ConwayGameMorph new openInWorld
